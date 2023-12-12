@@ -2,7 +2,7 @@
 
 ## Description
 
-A pair of eyes that track and follow your mouse around the screen with their gaze.
+A pair of eyes that track and follow your mouse around the screen with their gaze. This can be applied to tracking a text cursor.
 
 ## Installation 
 
