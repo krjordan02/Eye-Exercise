@@ -6,6 +6,10 @@ A pair of eyes that track and follow your mouse around the screen with their gaz
 
 <img src="readMeImg.jpg" width="300px">
 
+## My Eye Exercise
+
+<a href="https://krjordan02.github.io/Eye-Exercise/">Eye Exercise</a>
+
 ## Installation 
 
 Simply clone or download the project folder to your local machine and open the index.html file in your browser. 
