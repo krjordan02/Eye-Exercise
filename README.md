@@ -4,7 +4,7 @@
 
 A pair of eyes that track and follow your mouse around the screen with their gaze. This can be applied to tracking a text cursor.
 
-<img src="readMeImg.jpeg" width="300px">
+<img src="readMeImg.jpg" width="300px">
 
 ## Installation 
 
